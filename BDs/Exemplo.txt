@@ -1,0 +1,101 @@
+nquest;cidade;idade;raca_cor;esc_mae;renda_familiar;nota_mt;nota_lp;escola;date;tipo_musica
+1;Rio Branco;20;Preta;1;1;4;6;Pública;01.02.1998;D
+2;João Pessoa;19;Parda;1;1,5;5;7;Pública;09.03.1999;D
+3;Cuiabá;18;Indígena;2;2;6;7;Pública;08.10.2000;C
+4;Fortaleza;18;Branca;1;6,5;8;7;Pública diferenciada;07.07.2000;B
+5;São Paulo;14;Amarela;3;10;10;9;Privada;12.11.2004;A
+6;Porto Alegre;15;Branca;2;9;9;10;Privada;13.05.2003;B
+7;Vitória;16;Branca;2;7;8;8;Pública diferenciada;23.04.2002;C
+8;Recife;15;Parda;2;5,5;7;7;Pública;12.04.2003;C
+9;Belém;17;Preta;1;2,5;5;6;Pública;08.07.2001;D
+10;Porto Velho;18;Preta;1;1;3;4;Pública;06.05.2000;D
+11;Rio Branco;20;Preta;1;1;4;6;Pública;01.02.1998;D
+12;João Pessoa;19;Parda;1;1,5;5;7;Pública;09.03.1999;D
+13;Cuiabá;18;Indígena;2;2;6;7;Pública;08.10.2000;C
+14;Fortaleza;18;Branca;2;6,5;8;7;Privada;07.07.2000;B
+15;São Paulo;14;Amarela;3;10;10;9;Pública diferenciada;12.11.2004;A
+16;Porto Alegre;15;Branca;3;9;9;10;Privada;13.05.2003;B
+17;Vitória;16;Branca;3;8;8;8;Pública diferenciada;23.04.2002;C
+18;Recife;15;Parda;2;5,5;6;7;Pública;12.04.2003;C
+19;Belém;17;Preta;1;2,5;6;5;Pública;08.07.2001;D
+20;Porto Velho;18;Preta;1;1;3;4;Pública;06.05.2000;D
+21;Rio Branco;20;Preta;1;1;4;6;Pública;01.02.1998;D
+22;João Pessoa;19;Parda;1;1,5;5;7;Pública;09.03.1999;D
+23;Cuiabá;18;Indígena;2;2;6;7;Pública;08.10.2000;C
+24;Fortaleza;18;Branca;2;6,5;7;8;Pública diferenciada;07.07.2000;B
+25;São Paulo;14;Amarela;3;10;10;9;Privada;12.11.2004;A
+26;Porto Alegre;15;Branca;3;10;9;8;Privada;13.05.2003;B
+27;Vitória;16;Branca;2;7;8;8;Pública diferenciada;23.04.2002;C
+28;Recife;15;Parda;2;5,5;6;7;Pública;12.04.2003;C
+29;Belém;17;Preta;1;2,5;5;6;Pública;08.07.2001;D
+30;Porto Velho;18;Preta;1;1;3;4;Pública;06.05.2000;D
+31;Rio Branco;20;Preta;1;1;4;6;Pública;01.02.1998;D
+32;João Pessoa;19;Parda;1;1,5;5;7;Pública;09.03.1999;D
+33;Cuiabá;18;Indígena;2;2;6;7;Pública;08.10.2000;C
+34;Fortaleza;18;Branca;2;6,5;7;8;Pública diferenciada;07.07.2000;B
+35;São Paulo;14;Amarela;3;10;10;9;Privada;12.11.2004;A
+36;Porto Alegre;15;Branca;3;10;10;9;Privada;13.05.2003;B
+37;Vitória;16;Branca;2;7;8;8;Pública diferenciada;23.04.2002;C
+38;Recife;15;Parda;2;5,5;6;7;Pública;12.04.2003;C
+39;Belém;17;Preta;1;2,5;5;6;Pública;08.07.2001;D
+40;Porto Velho;18;Preta;1;1;3;4;Pública;06.05.2000;D
+41;Rio Branco;20;Preta;1;1;4;6;Pública;01.02.1998;D
+42;João Pessoa;19;Parda;1;1,5;5;7;Pública;09.03.1999;D
+43;Cuiabá;18;Indígena;2;2;6;7;Pública;08.10.2000;C
+44;Fortaleza;18;Branca;2;6,5;7;8;Pública diferenciada;07.07.2000;B
+45;São Paulo;14;Amarela;3;10;10;9;Privada;12.11.2004;A
+46;Porto Alegre;15;Branca;3;10;10;8;Privada;13.05.2003;B
+47;Vitória;16;Branca;3;9;8;7;Pública diferenciada;23.04.2002;C
+48;Recife;15;Parda;2;5,5;6;7;Pública;12.04.2003;C
+49;Belém;17;Preta;1;2,5;5;6;Pública;08.07.2001;D
+50;Porto Velho;;Preta;;1;;4;;06.05.2000;
+51;Rio Branco;20;Preta;1;1;4;6;Pública;01.02.1998;D
+52;;19;;1;;5;;Pública;;D
+53;Cuiabá;18;Indígena;2;2;6;7;Pública;08.10.2000;C
+54;Fortaleza;18;Branca;2;6,5;7;8;Pública diferenciada;07.07.2000;B
+55;São Paulo;14;Amarela;3;10;9;9;Privada;12.11.2004;A
+56;Porto Alegre;15;Branca;3;9;10;9;Privada;13.05.2003;B
+57;Vitória;16;Branca;2;7;8;8;Pública diferenciada;23.04.2002;C
+58;Recife;15;Parda;2;5,5;6;7;Pública;12.04.2003;C
+59;Belém;17;Preta;2;2,5;5;6;Pública;08.07.2001;D
+60;Porto Velho;18;Preta;1;1;3;4;Pública;06.05.2000;D
+61;Rio Branco;20;Preta;1;1;4;6;Pública;01.02.1998;D
+62;João Pessoa;19;Parda;1;1,5;5;7;Pública;09.03.1999;D
+63;Cuiabá;18;Indígena;2;2;6;7;Pública;08.10.2000;C
+64;Fortaleza;18;Branca;2;6,5;7;8;Pública diferenciada;07.07.2000;B
+65;São Paulo;14;Amarela;3;10;8;9;Privada;12.11.2004;A
+66;Porto Alegre;15;Branca;3;10;9;10;Privada;13.05.2003;B
+67;Vitória;16;Branca;2;7;8;8;Pública diferenciada;23.04.2002;C
+68;Recife;15;Parda;2;5,5;6;7;Pública;12.04.2003;C
+69;Belém;17;Preta;1;2,5;5;6;Pública;08.07.2001;D
+70;Porto Velho;18;Preta;1;1;3;4;Pública;06.05.2000;D
+71;Rio Branco;20;Preta;1;1;4;6;Pública;01.02.1998;D
+72;João Pessoa;19;Parda;1;1,5;5;7;Pública;09.03.1999;D
+73;Cuiabá;18;Indígena;2;2;6;7;Pública;08.10.2000;C
+74;Fortaleza;18;Branca;2;6,5;7;8;Pública diferenciada;07.07.2000;B
+75;São Paulo;14;Amarela;3;10;10;9;Privada;12.11.2004;A
+76;Porto Alegre;15;Branca;3;9;9;10;Privada;13.05.2003;B
+77;Vitória;16;Branca;2;7;8;8;Pública diferenciada;23.04.2002;C
+78;Recife;15;Parda;2;5,5;6;7;Pública;12.04.2003;C
+79;Belém;17;Preta;2;3,5;5;6;Pública;08.07.2001;D
+80;Porto Velho;18;Preta;1;1;3;4;Pública;06.05.2000;D
+81;Rio Branco;20;Preta;1;1;4;6;Pública;01.02.1998;D
+82;João Pessoa;19;Parda;1;1,5;5;7;Pública;09.03.1999;D
+83;Cuiabá;18;Indígena;2;2;7;6;Pública;08.10.2000;C
+84;Fortaleza;18;Branca;1;6,5;8;8;Pública diferenciada;07.07.2000;B
+85;São Paulo;14;Amarela;3;10;10;9;Privada;12.11.2004;A
+86;Porto Alegre;15;Branca;3;9;10;9;Privada;13.05.2003;B
+87;Vitória;16;Branca;2;7;8;8;Privada;23.04.2002;C
+88;Recife;15;Parda;3;5,5;7;7;Pública diferenciada;12.04.2003;C
+89;Belém;17;Preta;1;2,5;6;6;Pública;08.07.2001;D
+90;Porto Velho;18;Preta;1;1;3;4;Pública;06.05.2000;D
+91;Rio Branco;20;Preta;1;1;4;6;Pública;01.02.1998;D
+92;João Pessoa;19;Parda;1;1,5;5;7;Pública;09.03.1999;D
+93;Cuiabá;18;Indígena;2;2;7;6;Pública;08.10.2000;C
+94;Fortaleza;18;Branca;3;6,5;8;8;Pública diferenciada;07.07.2000;B
+95;São Paulo;14;Amarela;2;10;10;9;Privada;12.11.2004;A
+96;Porto Alegre;15;Branca;3;9;10;9;Privada;13.05.2003;B
+97;Vitória;16;Branca;2;7;8;8;Privada;23.04.2002;C
+98;Recife;15;Parda;1;5,5;7;7;Pública diferenciada;12.04.2003;C
+99;Belém;17;Preta;2;2,5;6;6;Pública;08.07.2001;D
+100;Porto Velho;18;Preta;1;1;4;4;Pública;06.05.2000;D
